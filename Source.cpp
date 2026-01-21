@@ -13,7 +13,7 @@ public:
     string getName() const;
     int getAge() const;
     string getBreed() const;
-    void bark() const;
+    
 };
 
 void Dog::setName(string n) {
